@@ -7,7 +7,9 @@ Planen, Überwachen, Reflektieren und Anpassen des eigenen Lernens.
 
 Dieses Repository dient der **Bereitstellung der Sid-Dateien** für
 Bildungseinrichtungen. Laden Sie sie herunter und folgen Sie der Anleitung zur
-EInrichtung in Ihrer telli Instanz.
+Einrichtung in Ihrer telli Instanz.
+
+**Wie lade ich alle Dateien herunter?** Klicke oben rechts auf den grünen Button **<>Code** und wähle "Download Zip".
 
 ---
 
