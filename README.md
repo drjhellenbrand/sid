@@ -33,10 +33,13 @@ Einrichtung in Ihrer telli Instanz.
 - **Kurzanleitung**  
   Bebilderte Schritt-für-Schritt-Anleitung zur Nutzung von Sid als Dialogpartner  
 
+- **Sid Avatar Bild**  
+  Bild kann als Avatar bei telli hinterlegt werden  
+
 - **Feedback**  
   Link zu einer Feedbackumfrage  
 
-- **Liecence**  
+- **Licence**  
   Lizenzbedinungen für die Nutzung von Sid.  
 ---
 
