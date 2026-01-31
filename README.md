@@ -1,4 +1,4 @@
-# Sid – dein KI-Lernbegleiter
+# Sid – dein KI-Lernbegleiter für telli
 
 Sid ist ein KI-gestützter Lernbegleiter für selbstreguliertes Lernen (SRL)
 im schulischen Kontext.  
