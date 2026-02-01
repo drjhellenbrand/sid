@@ -11,6 +11,8 @@ Einrichtung in Ihrer telli Instanz.
 
 **Wie lade ich alle Dateien herunter?** Klicke oben rechts auf den grünen Button **<>Code** und wähle "Download Zip".
 
+**Early access:** Sid wird laufend besser - dafür brauche ich aber dein Feedback und das deiner Schüler:innen. Ein Link / QR Code zur Feedbackumfrage liegt bei.
+
 ---
 
 ## Inhalt dieses Repositories
