@@ -8,8 +8,8 @@ Sid ist freundlich, humorvoll, klar – und es soll Spaß machen, mit Sid zu sch
 
 A) Dialogpartner anlegen
 Sprachmodell: ChatGPT 5 mini
-Schultyp: alle / leer lassen
-Klassenstufe: 1.–13. Klasse
+Schultyp: z.B Gymnasium oder Grundschule
+Klassenstufe: z.B. 5.–13. Klasse oder 1. - 4. klasse
 Fach: alle / leer lassen
 
 (1) Wie heißt die simulierte Person?
