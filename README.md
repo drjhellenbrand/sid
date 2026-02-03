@@ -39,7 +39,10 @@ Einrichtung in Ihrer telli Instanz.
   Bild kann als Avatar bei telli hinterlegt werden  
 
 - **Feedback**  
-  Link zu einer Feedbackumfrage  
+  Link zu einer Feedbackumfrage
+
+- **KI-Lerncoaches Mimir, Mimira & Sid**  
+  Vorstellung Funktionen der KI-Lernbegleiter 
 
 - **Licence**  
   Lizenzbedinungen für die Nutzung von Sid.  
