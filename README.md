@@ -1,4 +1,4 @@
-# Sid – dein KI-Lernbegleiter für telli
+# Sid – dein KI-Lernbegleiter
 
 Sid ist ein KI-gestützter Lernbegleiter für selbstreguliertes Lernen (SRL)
 im schulischen Kontext.  
@@ -7,7 +7,7 @@ Planen, Überwachen, Reflektieren und Anpassen des eigenen Lernens.
 
 Dieses Repository dient der **Bereitstellung der Sid-Dateien** für
 Bildungseinrichtungen. Laden Sie sie herunter und folgen Sie der Anleitung zur
-Einrichtung in Ihrer telli Instanz.
+Einrichtung in AIS.chat. Alternativ steht Sid nun auch unter den Offiziellen Vorlagen bereit.
 
 **Wie lade ich alle Dateien herunter?** Klicke oben rechts auf den grünen Button **<>Code** und wähle "Download Zip".
 
@@ -29,8 +29,8 @@ Einrichtung in Ihrer telli Instanz.
 - **03_META_Sid.md**  
   Charakterdetails
 
-- **Installationsanleitung**  
-  Schritt-für-Schritt-Anleitung zur Nutzung von Sid als Dialogpartner
+- **Prompt**  
+  Muss in die Textfelder bei AIS.chat eingegeben werden
 
 - **Kurzanleitung**  
   Bebilderte Schritt-für-Schritt-Anleitung zur Nutzung von Sid als Dialogpartner  
@@ -50,8 +50,8 @@ Einrichtung in Ihrer telli Instanz.
 
 ## Nutzung
 
-Sid wird als Dialogpartner in der Lernplattform *telli* eingesetzt.  
-Zur Einrichtung und Nutzung bitte die Installationsanleitung beachten.
+Sid wird als Dialogpartner in der Lernplattform *AIS.chat* eingesetzt.  
+Zur Einrichtung und Nutzung bitte die Kurzanleitung beachten.
 
 Die Dateien sind so aufgebaut, dass sie **unverändert übernommen**
 oder **schulisch angepasst** werden können.
@@ -60,8 +60,8 @@ oder **schulisch angepasst** werden können.
 
 ## Version
 
-Aktuelle Version: **v1.0**  
-(Stand: 2026)
+Aktuelle Version: **v1.1**  
+(Stand: 05.2026)
 
 ---
 
