@@ -7,7 +7,7 @@ Planen, Überwachen, Reflektieren und Anpassen des eigenen Lernens.
 
 Dieses Repository dient der **Bereitstellung der Sid-Dateien** für
 Bildungseinrichtungen. Laden Sie sie herunter und folgen Sie der Anleitung zur
-Einrichtung in AIS.chat. Alternativ steht Sid nun auch unter den Offiziellen Vorlagen bereit.
+Einrichtung in AIS.chat (ehemals telli). Alternativ steht Sid nun auch unter den Offiziellen Vorlagen bereit.
 
 **Wie lade ich alle Dateien herunter?** Klicke oben rechts auf den grünen Button **<>Code** und wähle "Download Zip".
 
@@ -36,7 +36,7 @@ Einrichtung in AIS.chat. Alternativ steht Sid nun auch unter den Offiziellen Vor
   Bebilderte Schritt-für-Schritt-Anleitung zur Nutzung von Sid als Dialogpartner  
 
 - **Sid Avatar Bild**  
-  Bild kann als Avatar bei telli hinterlegt werden  
+  Bild kann als Avatar bei AIS.chat hinterlegt werden  
 
 - **Feedback**  
   Link zu einer Feedbackumfrage
