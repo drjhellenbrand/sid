@@ -4,6 +4,7 @@ Sid ist ein KI-gestützter Lernbegleiter für selbstreguliertes Lernen (SRL)
 im schulischen Kontext.  
 Er unterstützt Lernprozesse, ohne Lösungen vorzugeben, und fördert
 Planen, Überwachen, Reflektieren und Anpassen des eigenen Lernens.
+Mehr zu Sid im Blogbeitrag auf: https://ais-chat.schule/2026/05/22/der-dialogpartner-sid/
 
 Dieses Repository dient der **Bereitstellung der Sid-Dateien** für
 Bildungseinrichtungen. Laden Sie sie herunter und folgen Sie der Anleitung zur
