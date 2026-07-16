@@ -8,7 +8,7 @@ Mehr zu Sid im Blogbeitrag auf: https://ais-chat.schule/2026/05/22/der-dialogpar
 
 Dieses Repository dient der **Bereitstellung der Sid-Dateien** für
 Bildungseinrichtungen. Laden Sie sie herunter und folgen Sie der Anleitung zur
-Einrichtung in AIS.chat (ehemals telli). Alternativ steht Sid nun auch unter den Offiziellen Vorlagen bereit.
+Einrichtung in AIS.chat (ehemals telli). **Alternativ steht Sid nun auch unter den Offiziellen Vorlagen bereit.**
 
 **Wie lade ich alle Dateien herunter?** Klicke oben rechts auf den grünen Button **<>Code** und wähle "Download Zip".
 
