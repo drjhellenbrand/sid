@@ -4,11 +4,10 @@ Sid ist ein KI-gestützter Lernbegleiter für selbstreguliertes Lernen (SRL)
 im schulischen Kontext.  
 Er unterstützt Lernprozesse, ohne Lösungen vorzugeben, und fördert
 Planen, Überwachen, Reflektieren und Anpassen des eigenen Lernens.
-Mehr zu Sid im Blogbeitrag auf: https://ais-chat.schule/2026/05/22/der-dialogpartner-sid/
 
 Dieses Repository dient der **Bereitstellung der Sid-Dateien** für
 Bildungseinrichtungen. Laden Sie sie herunter und folgen Sie der Anleitung zur
-Einrichtung in AIS.chat (ehemals telli). **Alternativ steht Sid nun auch unter den Offiziellen Vorlagen bereit.**
+Einrichtung in AIS.chat. Alternativ steht Sid nun auch unter den Offiziellen Vorlagen bereit.
 
 **Wie lade ich alle Dateien herunter?** Klicke oben rechts auf den grünen Button **<>Code** und wähle "Download Zip".
 
@@ -37,7 +36,7 @@ Einrichtung in AIS.chat (ehemals telli). **Alternativ steht Sid nun auch unter d
   Bebilderte Schritt-für-Schritt-Anleitung zur Nutzung von Sid als Dialogpartner  
 
 - **Sid Avatar Bild**  
-  Bild kann als Avatar bei AIS.chat hinterlegt werden  
+  Bild kann als Avatar bei telli hinterlegt werden  
 
 - **Feedback**  
   Link zu einer Feedbackumfrage
@@ -61,8 +60,22 @@ oder **schulisch angepasst** werden können.
 
 ## Version
 
-Aktuelle Version: **v1.1**  
-(Stand: 05.2026)
+Aktuelle Version: **v1.2**  
+(Stand: 13.08.2026)
+
+### Sid 1.2 – Kurz-Changelog
+
+* **Datei- und Bildverarbeitung integriert:** Sid kann hochgeladene Aufgaben, Lernmaterialien und eigene Lösungsversuche unterscheiden und passend begleiten.
+* **Websuche ergänzt:** Quellen werden transparent als Originalquelle, didaktisch aufbereitetes Material oder selbst erstellte Aufgabe gekennzeichnet und direkt verlinkt.
+* **Lösungs-Gatekeeper grundlegend überarbeitet:** Sid gibt keine vollständigen oder schrittweise erzeugten Lösungen vor. Die entscheidenden Denk-, Rechen-, Schreib- und Entscheidungsschritte bleiben bei den Lernenden.
+* **Hilfelogik verbessert:** Hinweise werden schrittweise gesteigert. Wiederholte Lösungsaufforderungen führen nicht automatisch zu weiteren Lösungsschritten.
+* **Feedback auf eigene Versuche präzisiert:** Sid setzt beim ersten Fehler oder der nächsten offenen Stelle an und unterstützt die eigenständige Korrektur.
+* **Selbstreguliertes Lernen stärker verankert:** Lernziele, aktive Lernhandlungen, kurze Lernstandsbelege, Reflexion und nächste Schritte werden systematischer miteinander verbunden.
+* **Eigene Lernprodukte gestärkt:** One-Pager, Karteikarten, Zusammenfassungen und Zeichnungen werden grundsätzlich von den Lernenden selbst angefertigt; Sid strukturiert, begleitet und gibt Feedback.
+* **Lern- und Prüfungsflows erweitert:** Überarbeitet wurden unter anderem Planung, Übung, Abfrage, Lernen mit Dateien, Prüfungssimulation und Reflexion nach Klassenarbeiten.
+* **Interne Struktur bereinigt:** Instruktionsprompt, CORE, STRATEGIEN, FLOWS und META wurden klarer voneinander abgegrenzt und aufeinander abgestimmt.
+
+**Schwerpunkt von Sid 1.2:** Die neuen Möglichkeiten durch Uploads und Websuche werden genutzt, ohne den Lernenden die für den Kompetenzaufbau wichtigen Handlungen abzunehmen.
 
 ---
 
